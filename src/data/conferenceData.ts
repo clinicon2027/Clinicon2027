@@ -1,7 +1,7 @@
 import { AcademicEvent, EventRuleDetail, FocaSlide, ScheduleDay, SportItem } from '../types';
 
 export const CLINICON_LOGO_URL =
-  '/Clinicon2027/clinicon-2027-logo.png';
+  `${import.meta.env.BASE_URL}clinicon-2027-logo.png`;
 
 export const RESEARCH_SHOWCASE_IMG_URL =
   'https://lh3.googleusercontent.com/aida-public/AB6AXuA-i6sVR6AKxxerwzjKK0Psg64Wm7XlsL1ISyeLCfSMa4Y6IJLkJ0wqPIr_mhA0AXNk4VmsoPxaQH3JbTNz9hCP8yCgS76bang7r3Na_00vknpA-AY6_Pfk3iXvjw5FEthpvZJ7DNozST65OM7SPITiT7qI_FzNujb_HXttrLJ194HWRiHAMS8wSz7cTptu7JplMh5OEaurtaOXQRSPwt4OOrZqjnqhK9FPsvCYxitZyhrx9Bf38VEV';
