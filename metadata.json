@@ -1,0 +1,6 @@
+{
+  "name": "CLINICON 2027",
+  "description": "The premier international clinical conference for medical students. Bridging the gap between theory and practice in the heart of the Balkans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
