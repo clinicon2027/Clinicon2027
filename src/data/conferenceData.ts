@@ -1,4 +1,4 @@
-Import { AcademicEvent, EventRuleDetail, FocaSlide, ScheduleDay, SportItem } from '../types';
+import { AcademicEvent, EventRuleDetail, FocaSlide, ScheduleDay, SportItem } from '../types';
 
 export const CLINICON_LOGO_URL =
   '/Clinicon2027/clinicon-2027-logo.png';
